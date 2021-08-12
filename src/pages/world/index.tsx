@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Stage } from '@inlet/react-pixi';
+import { Sprite, Stage } from '@inlet/react-pixi';
 
 import useWindowSize from '../../hooks/useWindowSize';
 
@@ -15,7 +15,9 @@ const World = () => {
 
   return (
     <>
-      <Stage width={stageWidth} height={stageHeight} />
+      <Stage width={stageWidth} height={stageHeight}>
+        <Sprite image="./assets/bg/default.png" x={0} y={0} />
+      </Stage>
     </>
   );
 };
