@@ -73,8 +73,8 @@ const Character = () => {
         isPlaying={animationPlayed}
         animationSpeed={0.1}
         textures={frames}
-        width={24}
-        height={24}
+        width={20}
+        height={20}
         initialFrame={initialFrame}
       />
     </Container>
