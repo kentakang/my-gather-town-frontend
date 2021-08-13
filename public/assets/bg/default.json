@@ -6,10 +6,17 @@
     },
     "areas": [
         {
-            "width": 1022,
-            "height": 190,
+            "width": 1015,
+            "height": 165,
             "x": 0,
             "y": 0,
+            "accessable": true
+        },
+        {
+            "width": 515,
+            "height": 235,
+            "x": 510,
+            "y": 165,
             "accessable": true
         }
     ]

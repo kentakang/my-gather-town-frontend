@@ -33,7 +33,7 @@ const World = () => {
   return (
     <Stage width={stageWidth} height={stageHeight}>
       <Sprite image={map.info.image} x={0} y={0} />
-      <Character />
+      <Character map={map} />
     </Stage>
   );
 };
