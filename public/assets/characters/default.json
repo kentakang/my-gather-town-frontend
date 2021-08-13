@@ -130,12 +130,10 @@
         }
     },
     "meta": {
-        "app": "http://www.texturepacker.com",
         "version": "1.0",
         "image": "default.png",
         "format": "RGBA8888",
         "size": {"w":64,"h":64},
-        "scale": "1",
-        "smartupdate": "$TexturePacker:SmartUpdate:2f213a6b451f9f5719773418dfe80ae8$"
+        "scale": "1"
     }
 }

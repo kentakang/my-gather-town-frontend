@@ -1,0 +1,16 @@
+{
+    "info": {
+        "name": "Default World",
+        "author": "Chan Kang <me@kentakang.com>",
+        "image": "./assets/bg/default.png"
+    },
+    "areas": [
+        {
+            "width": 1022,
+            "height": 190,
+            "x": 0,
+            "y": 0,
+            "accessable": true
+        }
+    ]
+}
