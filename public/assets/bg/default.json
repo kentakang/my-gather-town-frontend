@@ -18,6 +18,13 @@
             "x": 510,
             "y": 165,
             "accessable": true
+        },
+        {
+            "width": 80,
+            "height": 197,
+            "x": 900,
+            "y": 0,
+            "accessable": false
         }
     ]
 }
