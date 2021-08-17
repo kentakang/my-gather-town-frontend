@@ -24,6 +24,31 @@
             "height": 197,
             "x": 900,
             "y": 0,
+            "label": "Red Statue",
+            "accessable": false
+        },
+        {
+            "width": 22,
+            "height": 115,
+            "x": 20,
+            "y": 0,
+            "label": "Door Left",
+            "accessable": false
+        },
+        {
+            "width": 238,
+            "height": 29,
+            "x": 45,
+            "y": 0,
+            "label": "Door Top",
+            "accessable": false
+        },
+        {
+            "width": 183,
+            "height": 86,
+            "x": 90,
+            "y": 30,
+            "label": "Door Right",
             "accessable": false
         }
     ]
